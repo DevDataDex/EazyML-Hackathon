@@ -1,3 +1,4 @@
 # EazyML-Hackathon
 # Hey EasyML Team! This was my first ever Hackathon, and although I didn't hardly understand anything I was glad to have the chance to explore a machine learning interface. 
 # Due to a family emergency I wasn't able to spend as much time on the Hackathon as I would have liked, but I committed to myself that I would submit something, so this is what I've got. 
+# I liked how simple it was to use the EazyML interface, although I was frustrated that I was not able to back track and correct what I wanted to feed into my model. I especially felt this looking at Contribution to Model Weight (predicing Acres Burned), realizing that fatalities became the leading contributor. I know fatalities isn't a parameter we can use to predict wildfires, and so I wanted to fix my model, but I couldn't back up two steps, and had to start from the top again.
