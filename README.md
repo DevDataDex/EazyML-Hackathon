@@ -1,7 +1,7 @@
 # EazyML-Hackathon
 # Submitted by Devin Warner and Braden Carlson
 Hey EazyML Team! This was our first ever Hackathon, and although we didn't hardly understand anything we enjoyed the chance to explore this new machine learning interface. 
-\n
+
 Due to a family emergency I, Devin, wasn't able to spend as much time on the Hackathon as I would have liked, but I committed to myself that I would submit something, so this is what I've got. 
 
 I, Devin, liked how simple it was to use the EazyML interface, although I was frustrated that I was not able to back track and correct what I wanted to feed into my model. I especially felt this looking at Contribution to Model Weight (predicing Acres Burned), realizing that fatalities became the leading contributor. I know fatalities isn't a parameter we can use to predict wildfires, and so I wanted to fix my model, but I couldn't back up two steps, and had to start from the top again.
